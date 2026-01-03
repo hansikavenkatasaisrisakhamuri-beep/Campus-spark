@@ -1,0 +1,2 @@
+# Campus-spark
+educational purpose
